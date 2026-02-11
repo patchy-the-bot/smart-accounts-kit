@@ -19,9 +19,8 @@
     "test:watch": {
       "cache": false
     },
-    "lint": {
-      "dependsOn": ["^lint"]
-    },
+    "lint": {},
+    "lint:fix": {},
     "dev": {
       "cache": false,
       "persistent": true
